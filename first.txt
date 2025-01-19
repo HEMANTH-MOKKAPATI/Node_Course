@@ -1,0 +1,2 @@
+This is the first file created using fs module!
+this is the appended content!
